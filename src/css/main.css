@@ -262,9 +262,9 @@ textarea {
         page-break-inside: avoid;
     }
 
-    img {
+    /*img {
         max-width: 100% !important;
-    }
+    }*/
 
     p,
     h2,
